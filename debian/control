@@ -4,7 +4,7 @@ Priority: optional
 Maintainer: Kevin M. Rosenberg <kmr@debian.org>
 Build-Depends-Indep: dh-lisp
 Build-Depends: debhelper (>= 7.0.0)
-Standards-Version: 3.8.4.0
+Standards-Version: 3.9.5.0
 Homepage: http://files.kpe.io/puri/
 Vcs-Git: git://git.kpe.io/puri/
 Vcs-Browser: http://git.kpe.io/puri/

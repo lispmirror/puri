@@ -17,6 +17,11 @@ SUPPORTED PLATFORMS
 -------------------
    AllegroCL, CLISP, CMUCL, Lispworks, OpenMCL, SBCL
 
+DOCUMENTATION
+----------
+Franz, Inc. has online documenation for the URI package upon which
+PURI is based:
+   http://franz.com/support/documentation/current/doc/uri.htm
 
 OVERVIEW
 --------
