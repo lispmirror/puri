@@ -21,12 +21,10 @@
 ;; but without any warranty; without even the implied warranty of
 ;; merchantability or fitness for a particular purpose.  See the GNU
 ;; Lesser General Public License for more details.
-;;
-;; $Id$
 
 (defpackage #:puri
   (:use #:cl)
-  #-allegro (:nicknames #:net.uri)
+  #-(or allegro zacl) (:nicknames #:net.uri)
   (:export
    #:uri                                ; the type and a function
    #:uri-p

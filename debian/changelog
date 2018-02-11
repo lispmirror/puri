@@ -1,3 +1,9 @@
+cl-puri (1:1.5.7-1) unstable; urgency=medium
+
+  * Avoid name collision with zacl and net.uri nickname (thanks Dave Cooper)
+
+ -- Kevin M. Rosenberg <kmr@debian.org>  Sun, 11 Feb 2018 10:37:59 -0700
+
 cl-puri (1:1.5.6-1) unstable; urgency=medium
 
   * Removed uri.htm from distribution as is copyright by Franz, Inc
