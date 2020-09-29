@@ -1,3 +1,10 @@
+cl-puri (1:1.5.7.1-1) unstable; urgency=medium
+
+  * Rework test suite for newer versions of ASDF
+  * Upload to Debian (closes: 921508)
+
+ -- Kevin M. Rosenberg <kmr@debian.org>  Tue, 29 Sep 2020 15:55:37 +0000
+
 cl-puri (1:1.5.7-1) unstable; urgency=medium
 
   * Avoid name collision with zacl and net.uri nickname (thanks Dave Cooper)
